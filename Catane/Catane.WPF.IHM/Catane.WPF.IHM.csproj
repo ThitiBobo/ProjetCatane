@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{474547EC-ABFE-4BDF-9FF7-CB185FA5216E}</ProjectGuid>
+    <ProjectGuid>{54256A4B-EB4A-4D76-AE38-F012D7F2AC6E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Catane.WPF.IHM</RootNamespace>
     <AssemblyName>Catane.WPF.IHM</AssemblyName>
