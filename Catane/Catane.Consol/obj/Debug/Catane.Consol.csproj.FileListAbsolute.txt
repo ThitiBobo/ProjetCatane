@@ -1,6 +1,0 @@
-C:\Users\Thibaut\Desktop\ProjetCatane\Catane\Catane.Consol\bin\Debug\Catane.Consol.exe.config
-C:\Users\Thibaut\Desktop\ProjetCatane\Catane\Catane.Consol\bin\Debug\Catane.Consol.exe
-C:\Users\Thibaut\Desktop\ProjetCatane\Catane\Catane.Consol\bin\Debug\Catane.Consol.pdb
-C:\Users\Thibaut\Desktop\ProjetCatane\Catane\Catane.Consol\obj\Debug\Catane.Consol.csprojResolveAssemblyReference.cache
-C:\Users\Thibaut\Desktop\ProjetCatane\Catane\Catane.Consol\obj\Debug\Catane.Consol.exe
-C:\Users\Thibaut\Desktop\ProjetCatane\Catane\Catane.Consol\obj\Debug\Catane.Consol.pdb
