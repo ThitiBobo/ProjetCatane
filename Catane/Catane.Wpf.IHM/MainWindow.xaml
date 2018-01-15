@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Path d:LayoutOverrides="None" 
+      d:LastTangent="0,0" Stroke="Blue" Fill="Red" 
+      HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+      Margin="0" Width="100" Height="100" x:Name="Path" 
+  Stretch="Fill" 
+      Data="M8.660254,0 L17.320508,5 17.320508,15 8.660254,20 0,15 0,5 8.660254,0 z"/>
     </Grid>
 </Window>
